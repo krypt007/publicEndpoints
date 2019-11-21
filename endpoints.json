@@ -68,4 +68,9 @@
 	"p2pEndpoint": "p2p-endpoint-1.worbli.io:9876",
 	"apiEndpoint": "https://api.worbli.io",
 	"history": "false"
+}, {
+	"name": "eosnairobi",
+	"p2pEndpoint": "p2p-worbli-mn.eosnairobi.io:9926",
+	"apiEndpoint": "http://api-worbli-mn.eosnairobi.io:9928",
+	"history": "false"
 }]
